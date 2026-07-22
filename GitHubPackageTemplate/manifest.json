@@ -1,40 +1,13 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-21T18:10:00Z",
+  "updatedAt": "2026-07-22T00:00:00Z",
   "fontPackages": [
-    {
-      "id": "canger-mingkai",
-      "name": "仓耳明楷",
-      "englishName": "Canger MingKai",
-      "version": "1.0.0",
-      "description": "清晰端正的明楷风格，适合任务说明、装备词条和长时间阅读。",
-      "archiveUrl": "https://github.com/712123846456zcj/GrimDawnRunnerLite-Packages/releases/download/fonts-v1.0.0/canger-mingkai-v1.0.0.zip",
-      "previewUrl": "https://github.com/712123846456zcj/GrimDawnRunnerLite-Packages/releases/download/fonts-v1.0.0/canger-mingkai-v1.0.0.png",
-      "archiveFileName": "仓耳明楷.zip",
-      "previewFileName": "仓耳明楷.png",
-      "sha256": "629eedfdb07f0a4c1635daa68f4c494b136c5524d87373d6efbde03c915717d0",
-      "previewSha256": "5655a01f335350758a8ff822f157be5d060a2b8084bd8371fad917dce3f2aedd",
-      "size": 144719492
-    },
-    {
-      "id": "hanyi-zhengyuan",
-      "name": "汉仪正圆",
-      "englishName": "Hanyi ZhengYuan",
-      "version": "1.0.0",
-      "description": "圆润醒目的中文字体，在高分辨率界面中具有较好的辨识度。",
-      "archiveUrl": "https://github.com/712123846456zcj/GrimDawnRunnerLite-Packages/releases/download/fonts-v1.0.0/hanyi-zhengyuan-v1.0.0.zip",
-      "previewUrl": "https://github.com/712123846456zcj/GrimDawnRunnerLite-Packages/releases/download/fonts-v1.0.0/hanyi-zhengyuan-v1.0.0.png",
-      "archiveFileName": "汉仪正圆.zip",
-      "previewFileName": "汉仪正圆.png",
-      "sha256": "5ddbc10deb086647fe80fb2c6d3ad6032edc775e22be0fcad1b274c1fc96d93e",
-      "previewSha256": "823b5e38ca02d71cf7636b3723cbbb487c35f4c89b42657af67e2b271f2579c4",
-      "size": 50962934
-    },
     {
       "id": "microsoft-yahei",
       "name": "微软雅黑",
       "englishName": "Microsoft YaHei",
       "version": "1.0.0",
+      "supportedGameVersion": "全版本通用",
       "description": "经典清晰的微软雅黑风格，适合界面文字、装备词条和长时间阅读。",
       "archiveUrl": "https://github.com/712123846456zcj/GrimDawnRunnerLite-Packages/releases/download/fonts-v1.0.0/microsoft-yahei-v1.0.0.zip",
       "previewUrl": "https://github.com/712123846456zcj/GrimDawnRunnerLite-Packages/releases/download/fonts-v1.0.0/microsoft-yahei-v1.0.0.png",
@@ -43,6 +16,23 @@
       "sha256": "0c4fb1b506901d5c99a9ed07e80141109fbfa915168aff4a433d9b42f616498c",
       "previewSha256": "882c1a34316a897b783f48da7c6c42d424474d3e00cabef9728bc76ca69aef77",
       "size": 97486926
+    }
+  ],
+  "textPackages": [
+    {
+      "id": "affixes-for-professions-enhanced",
+      "name": "词缀职业显示增强",
+      "englishName": "Affixes for professions are enhanced",
+      "version": "1.0.0",
+      "supportedGameVersion": "v1.2.1.6",
+      "description": "增强装备词缀与职业相关文本的显示和标识，便于查看构筑信息。",
+      "archiveUrl": "https://github.com/712123846456zcj/GrimDawnRunnerLite-Packages/releases/download/text-v1.0.0/Affixes.for.professions.are.enhanced.zip",
+      "previewUrl": "https://github.com/712123846456zcj/GrimDawnRunnerLite-Packages/releases/download/text-v1.0.0/Affixes.for.professions.are.enhanced.png",
+      "archiveFileName": "词缀职业显示增强.zip",
+      "previewFileName": "词缀职业显示增强.png",
+      "sha256": "b2d87833706b7000ba03ce80b217410e9a3c98a405f875e43573ba552b0f8ccc",
+      "previewSha256": "fd1dbd636e99ac50ae48e1ad54309c254c2046b6595381231d8ebcd580e4ac98",
+      "size": 1569461
     }
   ]
 }
