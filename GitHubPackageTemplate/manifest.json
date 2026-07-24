@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-22T00:00:00Z",
+  "updatedAt": "2026-07-24T09:55:40Z",
   "fontPackages": [
     {
       "id": "microsoft-yahei",
@@ -35,6 +35,23 @@
       "sha256": "b2d87833706b7000ba03ce80b217410e9a3c98a405f875e43573ba552b0f8ccc",
       "previewSha256": "fd1dbd636e99ac50ae48e1ad54309c254c2046b6595381231d8ebcd580e4ac98",
       "size": 1569461
+    },
+    {
+      "id": "set-summary-v1-11",
+      "name": "set有简述版v1.11",
+      "englishName": "Set descriptions v1.11",
+      "authorName": "QQ群1070483622@橙子",
+      "sharerName": "",
+      "version": "1.11",
+      "supportedGameVersion": "v1.3.0.0",
+      "description": "为套装与相关内容补充简要说明，适配 Grim Dawn 1.3 正式版。",
+      "archiveUrl": "https://github.com/712123846456zcj/GrimDawnRunnerLite-Packages/releases/download/text-v1.0.0/Set.descriptions.v1.11.zip",
+      "previewUrl": "https://github.com/712123846456zcj/GrimDawnRunnerLite-Packages/releases/download/text-v1.0.0/Set.descriptions.v1.11.png",
+      "archiveFileName": "set有简述版v1.11.zip",
+      "previewFileName": "set有简述版v1.11.png",
+      "sha256": "b4351d2e3f742b9abfd0f3c230d8717055a2a02c440b497053fd31a4870dc7ea",
+      "previewSha256": "195b15d7652f50c21eab422e6f6332d893daa1b1fa2c5177ef97512b2d26d8e0",
+      "size": 1758028
     }
   ]
 }
